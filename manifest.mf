@@ -1,1 +1,1 @@
-Main-Class: njcalculator
+Main-Class: LinatocCalculatorv2.0
