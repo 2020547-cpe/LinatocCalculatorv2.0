@@ -1,4 +1,4 @@
-javac njcalculator.java
-javac -d . njcalculator.java
-jar -cvfm njcalculator.jar manifest.mf *.class
-java -jar njcalculator.jar
+javac Linatoc_Calculator.java
+javac -d . Linatoc_Calculator.java
+jar -cvfm Linatoc_Calculator.jar manifest.mf *.class
+java -jar Linatoc_Calculator.jar
